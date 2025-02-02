@@ -18,7 +18,6 @@
 docker-compose build
 ```
 - จากนั้นทำการ Get vue-frontend-nail-salon จาก [vue-frontend-nail-salon](https://github.com/arada2003/vue-frontend-nail-salon)
-- 
 ```bash
 # ติดตั้ง dependencies
 npm install
