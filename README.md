@@ -17,14 +17,15 @@
  ```bash
 docker-compose build
 ```
-- จากนั้นทำการ Get 
+- จากนั้นทำการ Get vue-frontend-nail-salon จาก [vue-frontend-nail-salon](https://github.com/arada2003/vue-frontend-nail-salon)
+- 
 ```bash
 # ติดตั้ง dependencies
 npm install
 
 # รันเซิร์ฟเวอร์
-npm run dev
+npm run serve
 ```
+- จะเปิด localhost:8001 สำหรับ fastApi
+- จะเปิด localhost:8080 สำหรับ vuejs
 
-## 📄 License  
-[MIT License](LICENSE)
