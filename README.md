@@ -12,7 +12,12 @@
 - **อื่น ๆ:** Docker
 
 ## 🚀 วิธีติดตั้งและใช้งาน  
-ต้องทำการ Run api-database-nail-salon ก่อน จาก [APi and Database Nail Salon](https://github.com/arada2003/api-database-nail-Salon)
+- ทำการ Get api-database-nail-salon ก่อน จาก [APi and Database Nail Salon](https://github.com/arada2003/api-database-nail-Salon)
+- Run Folder ด้วย Docker ใช้คำสั่ง
+ ```bash
+docker-compose build
+```
+- จากนั้นทำการ Get 
 ```bash
 # ติดตั้ง dependencies
 npm install
